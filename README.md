@@ -16,5 +16,5 @@
 
 #OUTPUT
 
-<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/51f7291e-4b54-43f4-b9cc-c79fd27cfa07" />
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/51f7291e-4b54-43f4-b9cc-c79fd27cfa07" />
 
